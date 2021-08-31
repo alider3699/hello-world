@@ -1,0 +1,19 @@
+body{
+    background-color: aliceblue;
+    font-size: 4em;
+    font-family: 'Arvo', serif;
+    align-content: center;
+    
+}
+
+div.container1{
+   margin: 0;
+   position: absolute;              
+   top: 50%;                         
+   transform: translate(100%, -50%) }
+   
+
+}
+
+
+
